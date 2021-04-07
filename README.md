@@ -19,5 +19,5 @@ I really enjoy learning new stuff, and I'm trying to get better at coding.
 
 [Lebot]: https://github.com/RaffaelSchaefer/LeBot
 [Cyberium]: https://github.com/RaffaelSchaefer/Cyberium
-[Covid Stats]: https://github.com/RaffaelSchaefer/CoronaZahlenMonitor
+[Covid Stats]: https://github.com/RaffaelSchaefer/CovidStats
 [Website]: https://raffaelschaefer.myportfolio.com/
