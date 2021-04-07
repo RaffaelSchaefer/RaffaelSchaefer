@@ -4,7 +4,7 @@
 
 ![About me](https://github.com/RaffaelSchaefer/RaffaelSchaefer/blob/master/img/about_me.png?raw=true)
 
-I'm a Videographer, Photograph and 3D Artist, who also likes to code.
+I'm a Videographer, Photographer and 3D Artist, who also likes to code.
 I'm currently studying Media informatics in Germany at the environmental campus birkenfeld. 
 I really enjoy learning new stuff, and I'm trying to get better at coding.
 
