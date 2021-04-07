@@ -12,12 +12,12 @@ I really enjoy learning new stuff, and I'm trying to get better at coding.
 
 - [Lebot] a small mini games bot for Discord
 - [Cyberium] a high tech Terraia mod for tModLoader
-- [CoronaZahlenMonitor] a small website which shows the daily covid-19 cases in Germany
+- [Covid Stats] a small website which shows the daily covid-19 cases in Germany
 
 ## My [Website] 💻🌍
 
 
 [Lebot]: https://github.com/RaffaelSchaefer/LeBot
 [Cyberium]: https://github.com/RaffaelSchaefer/Cyberium
-[CoronaZahlenMonitor]: https://github.com/RaffaelSchaefer/CoronaZahlenMonitor
+[Covid Stats]: https://github.com/RaffaelSchaefer/CoronaZahlenMonitor
 [Website]: https://raffaelschaefer.myportfolio.com/
