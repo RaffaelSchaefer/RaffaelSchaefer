@@ -20,4 +20,4 @@ I really enjoy learning new stuff, and I'm trying to get better at coding.
 [Cyberium]: https://github.com/RaffaelSchaefer/Cyberium
 [Covid Stats]: https://raffaelschaefer.github.io/CovidStats/
 [Eight Ball]: https://raffaelschaefer.github.io/EightBall/
-[Noise Art]: https://raffaelschaefer.github.io/CanvasDemo/
+[Noise Art]: https://raffaelschaefer.github.io/Noise-Art/
