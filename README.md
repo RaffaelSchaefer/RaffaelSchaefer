@@ -20,10 +20,6 @@ I really enjoy learning new stuff, and I'm trying to get better at coding.
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=raffaelschaefer&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 
-## Bad jokes
-
-![Jokes Card](https://readme-jokes.vercel.app/api)
-
 [lebot]: https://github.com/RaffaelSchaefer/LeBot
 [covid stats]: https://raffaelschaefer.github.io/CovidStats/
 [eight ball]: https://raffaelschaefer.github.io/EightBall/
